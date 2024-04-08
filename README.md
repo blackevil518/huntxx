@@ -1,6 +1,8 @@
 # huntx
 Through this tool, you can hunt Facebook accounts 
 
+Command : 
+
 apt updated && apt upgrade 
 
 pkg install git 
