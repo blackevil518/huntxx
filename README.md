@@ -11,10 +11,9 @@ pkg install python
 
 pip install websocket-client 
 
-git clone
-https://github.com/DrZalost/huntx
+git clone https://github.com/blackevil518/huntxx
 
-cd huntx
+cd huntxx
 
 chmod +x *
 
